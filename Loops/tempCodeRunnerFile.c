@@ -1,0 +1,2 @@
+
+      lastDigit = n%10;
